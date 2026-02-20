@@ -1,0 +1,12 @@
+{
+  "experiment": "fixed_512_hyde",
+  "chunking": "fixed_512",
+  "retrieval": "hyde",
+  "num_chunks": 6156,
+  "hit_rate_3": 0.725,
+  "hit_rate_5": 0.75,
+  "hit_rate_10": 0.825,
+  "mrr": 0.710654761904762,
+  "eval_time_s": 269.0594327250001,
+  "num_queries": 40
+}

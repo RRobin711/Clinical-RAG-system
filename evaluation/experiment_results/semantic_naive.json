@@ -1,0 +1,12 @@
+{
+  "experiment": "semantic_naive",
+  "chunking": "semantic",
+  "retrieval": "naive",
+  "num_chunks": 1908,
+  "hit_rate_3": 0.825,
+  "hit_rate_5": 0.85,
+  "hit_rate_10": 0.875,
+  "mrr": 0.8177083333333334,
+  "eval_time_s": 0.89710330699927,
+  "num_queries": 40
+}
