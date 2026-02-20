@@ -1,25 +1,24 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
-.venv/
-venv/
+*.pyo
+*.pyd
 *.egg-info/
+dist/
+build/
+.venv/
+.conda/
+.pytest_cache/
+.mypy_cache/
 
-# Data (PDFs are large, don't commit them)
-data/papers/*.pdf
+# Secrets
+.env
 
-# Jupyter
-.ipynb_checkpoints/
-
-# IDEs
-.vscode/
-.idea/
+# Local data artifacts (keep directory structure via .gitkeep)
+data/*
+!data/**/.gitkeep
 
 # OS
 .DS_Store
 Thumbs.db
-
-# API keys and secrets
-.env
-*.key
+.vscode/

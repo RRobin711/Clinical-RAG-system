@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clinical-rag-day4-starter"
+version = "0.1.0"
+description = "Day 0-4 starter for a clinical RAG system (PDF ingestion -> FAISS -> grounded LLM answers)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

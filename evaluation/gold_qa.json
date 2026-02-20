@@ -1,0 +1,322 @@
+[
+  {
+    "question": "How many items does the PHQ-9 contain and what is the scoring range?",
+    "answer": "The PHQ-9 contains 9 items with a scoring range of 0-27.",
+    "source_doc_id": "5a2f4699bf4b",
+    "difficulty": "easy",
+    "category": "scoring",
+    "notes": "Paper: The PHQ-9 Validity of a Brief Depression Severity Measure"
+  },
+  {
+    "question": "What cutoff score on the PHQ-9 indicates moderate depression severity?",
+    "answer": "Looking through the text for PHQ-9 cutoff scores for moderate depression severity, I find the following information:\n\nThe PHQ-9 cutoff scores are: 1-4 (minimal depression), 5-9 (mild depression), 10-14 (moderate depression), 15-19 (moderately severe depression), and 20-27 (severe depression). Therefore, a score of 10-14 indicates moderate depression severity.",
+    "source_doc_id": "5a2f4699bf4b",
+    "difficulty": "easy",
+    "category": "scoring",
+    "notes": "Standard cutoffs: 5=mild, 10=moderate, 15=moderately severe, 20=severe"
+  },
+  {
+    "question": "What is the internal consistency of the PHQ-9 as measured by Cronbach's alpha?",
+    "answer": "Looking through the text for Cronbach's alpha values for the PHQ-9 internal consistency, I found the following:\n\nThe internal consistency of the PHQ-9 as measured by Cronbach's alpha was α = 0.89. Additionally, the text reports that \"The PHQ-9 had excellent internal consistency (Cronbach's α = 0.89)\" and mentions this value appeared consistently across different analyses in the study.",
+    "source_doc_id": "5a2f4699bf4b",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: The PHQ-9 Validity of a Brief Depression Severity Measure"
+  },
+  {
+    "question": "What is the sensitivity and specificity of the PHQ-9 at a cutoff of 10?",
+    "answer": "Based on my search through the text, I found the following information about PHQ-9 sensitivity and specificity:\n\nAt a cutoff of 10, the PHQ-9 has sensitivity of 88% and specificity of 88%.",
+    "source_doc_id": "5a2f4699bf4b",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Kroenke et al. reported 88% sensitivity and 88% specificity — verify in your text"
+  },
+  {
+    "question": "What is the optimal cutoff score for diagnosing depression with the PHQ-9 based on meta-analytic evidence?",
+    "answer": "Based on the meta-analytic evidence, the PHQ-9 has acceptable diagnostic properties for cut-off scores between 8 and 11, with no significant differences in pooled sensitivity and specificity within this range. A cut-off score of 11 had the best trade-off between sensitivity (0.89, 95% CI 0.75–0.96) and specificity (0.89, 95% CI 0.79–0.94). The traditionally recommended cut-off score of 10 had a pooled sensitivity of 0.85 (95% CI 0.75–0.91) and specificity of 0.89 (95% CI 0.83–0.92).",
+    "source_doc_id": "a95b3b77954c",
+    "difficulty": "medium",
+    "category": "scoring",
+    "notes": "Paper: Optimal cut-off score for diagnosing depression with PHQ-9 meta-analysis"
+  },
+  {
+    "question": "What is the reliability of the PHQ-9 in patients with major depressive disorder in a psychiatric hospital setting?",
+    "answer": "The Cronbach's α coefficient of PHQ-9 was 0.892, and the test-retest correlation coefficient for total score was 0.737 with 54 patients undergoing repeat assessment 2 weeks after initial evaluation.",
+    "source_doc_id": "2202b318485c",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: Reliability and validity of PHQ-9 in patients with MDD in psychiatric hospital"
+  },
+  {
+    "question": "Has the PHQ-9 been validated for depression screening in East Africa?",
+    "answer": "Yes. A study conducted in Ethiopia with 926 adults validated the PHQ-9 for depression screening in East Africa. The PHQ-9 showed good internal consistency (Cronbach's alpha=0.85) and test-retest reliability (intraclass correlation coefficient=0.92). At a cutoff score of 10, it had sensitivity=86% and specificity=67% for diagnosing major depressive disorder when compared to psychiatrist-administered SCAN interviews.",
+    "source_doc_id": "4255421a55d6",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: Validity of PHQ-9 for Depression Screening and Diagnosis in East Africa"
+  },
+  {
+    "question": "What is the validity of the PHQ-9 for screening depression in patients with epilepsy?",
+    "answer": "The PHQ-9 had an area under the ROC curve of 0.905 (N=172, SE=0.029, 95% CI [0.848, 0.962]) for screening depression in patients with epilepsy. At a cut-point of 10, the PHQ-9 showed sensitivity of 0.92 and specificity of 0.74, with positive predictive value of 0.46 and negative predictive value of 0.97. When compared to the NDDI-E, the PHQ-9 had similar overall accuracy (ROC areas 0.930 vs 0.934, p=0.864, N=127).",
+    "source_doc_id": "6bc9f70c0d91",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Paper: Validation of PHQ-9 for Adults with Epilepsy"
+  },
+  {
+    "question": "What is the factor structure of the PHQ-9 across gender and age groups?",
+    "answer": "The factor structure of the PHQ-9 across gender and age groups is a 2-factor model (affective factor and somatic factor) without the items of \"movement\" and \"desire to die\" that showed better fit than the 1-factor model. Multi-group analysis across gender demonstrated measurement equivalency for the 2-factor model with RMSEA < 0.08, CFI > 0.90 and TLI > 0.90. Multi-group analysis across age groups (17-19, 20-22, and 23-25 years old) also established measurement invariance with RMSEA values less than 0.05, CFI and TLI values more than 0.9, and ΔCFI ≤ 0.01 and ΔTLI ≤ 0.01 across all models.",
+    "source_doc_id": "87358abbdd83",
+    "difficulty": "hard",
+    "category": "structure",
+    "notes": "Paper: Factor structure of PHQ-9 across gender and age among Chinese uni students"
+  },
+  {
+    "question": "Is the PHQ-9 reliable and valid for depression screening in primary health care in Botswana?",
+    "answer": "Based on the study findings, the PHQ-9 is reliable and valid for depression screening in primary health care in Botswana. The PHQ-9 demonstrated good internal consistency with a Cronbach's alpha of 0.799, sensitivity of 72.4% and specificity of 76.3% at a cutoff score of 9 or more, and an area under the ROC curve of 0.808. Criterion validity was demonstrated by significant correlation (r = 0.528, p < 0.001) between PHQ-9 and the MINI, with the study sample consisting of 257 adult primary care attendants.",
+    "source_doc_id": "69d566f69cf5",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: Validity and reliability of PHQ-9 for screening depression in Botswana"
+  },
+  {
+    "question": "What challenges exist in establishing PHQ-9 validity in resource-constrained settings?",
+    "answer": "The text discusses several challenges in establishing PHQ-9 validity in resource-constrained settings, but does not explicitly state statistical values for these challenges. The review found infrequent reporting of key validation procedures: recruitment of research assistants from the country of study (6%, n=3), participant language fluency assessment (29%, n=14), formal language proficiency assessment (2%, n=1), pilot testing (20%, n=10), and community involvement (12%, n=6). Additionally, only 25% (n=12) reported test-retest reliability and 2% (n=1) reported inter-rater reliability, which are critical for measures used across time points and with verbal administration.",
+    "source_doc_id": "a7da73e9645e",
+    "difficulty": "hard",
+    "category": "validity",
+    "notes": "Paper: Establishing Reliability and Validity for PHQ-9 in Resource Constrained Settings"
+  },
+  {
+    "question": "What is the reliability of the PHQ-9 when used with patients who have multiple sclerosis?",
+    "answer": "The PHQ-9 exhibited high internal reliability (Cronbach's α = 0.89) and test-retest agreement (ICC 0.89, 95% CI 0.85–0.91) when used with patients who have multiple sclerosis.",
+    "source_doc_id": "b4a5480d5e66",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: PHQ-9 as screening tool for depression in people with MS"
+  },
+  {
+    "question": "What is the reliability of the Chinese version of the PHQ-9 in patients with psoriasis?",
+    "answer": "The Cronbach's α coefficient for the C-PHQ-9 was 0.938, and the retest coefficient after one week was 0.955 (p<0.01).",
+    "source_doc_id": "2abad0e27c1e",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: Reliability and validity of Chinese version of PHQ-9 in psoriasis patients"
+  },
+  {
+    "question": "How does the Montgomery-Åsberg Depression Rating Scale compare to the Hamilton Depression Rating Scale?",
+    "answer": "The MADRS showed about twice the precision in estimating depression as either the HRSD17 or HRSD6 for average severity of depression. Cronbach's alpha values were: HRSD17: 0.81 (Study 1) and 0.88 (Study 2); MADRS: 0.90 (Study 1) and 0.92 (Study 2); HRSD6: 0.78 (Study 1) and 0.86 (Study 2). Correlations between scales were: HRSD17 vs MADRS 0.88 (Study 1) and 0.92 (Study 2); median item-total correlations were 0.75 (Study 1) and 0.78 (Study 2) for MADRS compared to 0.50 (Study 1) and 0.56 (Study 2) for HRSD17.",
+    "source_doc_id": "bf67caefd469",
+    "difficulty": "hard",
+    "category": "validity",
+    "notes": "Paper: The Montgomery Åsberg and the Hamilton Ratings of Depression"
+  },
+  {
+    "question": "What is the factor structure of the Montgomery-Åsberg Depression Rating Scale?",
+    "answer": "The Montgomery-Åsberg Depression Rating Scale has a four-factor structure consisting of Sadness (items 1, 2), Negative Thoughts (items 9, 10), Detachment (items 6, 7, 8), and Neurovegetative symptoms (items 3, 4, 5), as identified by Williamson et al. (2006). This four-factor model demonstrated good fit to the data (CFI = 0.93, RMSEA = 0.06), and a hierarchical model where these four factors loaded onto a second-order Depression factor was also supported.",
+    "source_doc_id": "39e0542961f4",
+    "difficulty": "hard",
+    "category": "structure",
+    "notes": "Paper: The structure of the MADRS"
+  },
+  {
+    "question": "Is the MADRS valid for detecting depression among bariatric surgery candidates?",
+    "answer": "Yes, the MADRS is valid for detecting depression among bariatric surgery candidates. For the 10-item MADRS, Cronbach's alpha was 0.93, with best cut-off threshold of 13/14 yielding sensitivity of 0.81 and specificity 0.85. The 5-item version showed alpha coefficient of 0.94 and best cut-off threshold of 10/11, yielding sensitivity of 0.81 and specificity 0.87. Both versions demonstrated discriminative accuracy of almost 90% with AUC of 0.87.",
+    "source_doc_id": "0f151acddf82",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Paper: Clinical utility of MADRS for detection of depression among bariatric surgery candidates"
+  },
+  {
+    "question": "What is the validity of the MADRS in inpatients with alcohol dependence?",
+    "answer": "The MADRS demonstrated low overall accuracy with an area under the curve of 0.68 in 803 inpatients with alcohol dependence. The optimal threshold of >14 showed sensitivity of 66%, specificity of 60%, positive predictive value of 50%, and negative predictive value of 75%. The MADRS performed slightly better for major depressive disorders (AUC 0.73) compared to alcohol-induced depression (AUC 0.64).",
+    "source_doc_id": "d39061500028",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Paper: Validity of MADRS in Inpatient Sample with Alcohol Dependence"
+  },
+  {
+    "question": "Can the MADRS be reliably administered by telephone for brain tumour patients?",
+    "answer": "Yes, the MADRS demonstrated excellent interrater reliability when administered by telephone for brain tumour patients. Interrater reliability for the MADRS total score was excellent (ICC = 0.98) and ranged from good to excellent (ICC = 0.83–0.96) for individual MADRS items. High concordance has been reported between face-to-face and telephone, and videoconference and telephone-based administration in previous studies.",
+    "source_doc_id": "ca6eb41bc899",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: Reliability and validity of telephone-based MADRS for brain tumour"
+  },
+  {
+    "question": "Is there a self-report version of the Montgomery-Åsberg Depression Rating Scale?",
+    "answer": "Yes, there is a self-report version called the Montgomery-Åsberg Depression Rating Scale – Self report (MADRS-S). The MADRS-S is a 9-item, patient-administered version consisting of items assessing patients' mood, feelings of unease, sleep, appetite, ability to concentrate, initiative, emotional involvement, pessimism and zest for life, with each item scored between 0 and 3, and total scores ranging between 0 and 27. The correlation between MADRS-S and physicians' MADRS was moderate (r = 0.54, p < 0.001), Cronbach's alpha was 0.84, intraclass correlation coefficient was 0.78, and using a threshold value of 5, perceived remission reached a sensitivity of 82% and specificity of 75%.",
+    "source_doc_id": "19f1ee7a4c78",
+    "difficulty": "easy",
+    "category": "scoring",
+    "notes": "Paper: The self-reported MADRS depression"
+  },
+  {
+    "question": "What are the psychometric properties of the Arabic version of the MADRS?",
+    "answer": "NOT_FOUND\n\nThe text mentions that the Montgomery-Asberg Depression Rating Scale (MADRS) was used in this study and that \"We used the validated version of the scale in Arabic in this study\" with a reference, but it does not provide the specific psychometric properties (Cronbach's alpha, ICC values, sensitivity/specificity, cutoff scores, etc.) of the Arabic version of the MADRS itself. The only statistic provided is McDonald's omega = 0.87 for the current study's sample, but this doesn't constitute the psychometric properties of the Arabic validation.",
+    "source_doc_id": "00ca8b1fd790",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: Psychometric properties of the Arabic version"
+  },
+  {
+    "question": "How many items does the GAD-7 contain and what does it measure?",
+    "answer": "The GAD-7 contains 7 items and is a self-report scale developed to assess the defining symptoms of GAD. Items are rated on a 4-point Likert-type scale (0 = not at all to 3 = nearly every day), with scores ranging from 0 to 21, where higher scores indicate more severe GAD symptoms.",
+    "source_doc_id": "63b81fd81684",
+    "difficulty": "easy",
+    "category": "scoring",
+    "notes": "Paper: Psychometric Properties of GAD-7 in Outpatients"
+  },
+  {
+    "question": "What is the internal consistency of the GAD-7 in outpatients with anxiety and mood disorders?",
+    "answer": "The internal consistency of the GAD-7 in outpatients with anxiety and mood disorders was favorable, with scale reliability ρ = .85 for the full sample (N = 536), and ρ = .85 for both males and females separately.",
+    "source_doc_id": "63b81fd81684",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: Psychometric Properties of GAD-7 in Outpatients with Anxiety and Mood Disorders"
+  },
+  {
+    "question": "What are the psychometric properties of the GAD-7 in a heterogeneous psychiatric sample?",
+    "answer": "The GAD-7 demonstrated excellent internal consistency with Cronbach's alpha = 0.88 at the start of therapy for the total sample (N = 1201) and ranged from α = 0.83 to α = 0.93 across units and pre- and post-treatment. Convergent validity was excellent with high positive correlations: BAI r = 0.69, SCL-90 anxiety r = 0.76, SCL-90 GSI r = 0.72, and negative correlation with SF-36 mental component r = −0.59. ROC analysis showed sensitivity of 0.92 and specificity of 0.7 for a cutoff of 8, with area under the ROC curve of 86.9%.",
+    "source_doc_id": "712e48465b69",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: Psychometric Properties of GAD-7 in Heterogeneous Psychiatric Sample"
+  },
+  {
+    "question": "Is the GAD-7 valid for screening anxiety in adolescents?",
+    "answer": "Based on this study of 40 adolescents with GAD (mean age 14.8±2.8), the GAD-7 demonstrated validity for screening anxiety. PARS and GAD-7 scores strongly correlated (R=0.65, p<0.001). GAD-7 scores ≥11 showed 97% sensitivity and 100% specificity for detecting moderate anxiety, while GAD-7 scores ≥17 showed 100% sensitivity and 69% specificity for detecting severe anxiety.",
+    "source_doc_id": "9448206e4a07",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: GAD-7 in adolescents with GAD signal detection and validation"
+  },
+  {
+    "question": "How does the GAD-2 compare to the GAD-7 in a primary care setting?",
+    "answer": "The GAD-2 has sensitivity of 86% and specificity of 83% for GAD, while the GAD-7 has sensitivity of 89% and specificity of 82% for GAD. Studies by Plummer et al. reported GAD-2 sensitivity of 76% and specificity of 81%. The GAD-2 uses a cut-off score of ≥3 points, while GAD-7 uses cut-offs of 5, 10, and 15 for mild, moderate, and severe anxiety respectively.",
+    "source_doc_id": "c1f77224bcc9",
+    "difficulty": "hard",
+    "category": "validity",
+    "notes": "Paper: Using GAD-2 and GAD-7 in primary care setting"
+  },
+  {
+    "question": "Is the GAD-7 valid for screening anxiety in patients with migraine?",
+    "answer": "Yes, the GAD-7 is valid for screening anxiety in patients with migraine. Among 146 participants, Cronbach's α for the GAD-7 was 0.915. At a cutoff score of 5, the GAD-7 had a sensitivity of 78.1%, a specificity of 74.6%, a positive predictive value of 46.3%, and a negative predictive value of 92.4%. The GAD-7 score was well correlated with the Beck Anxiety Inventory score, MIDAS score, HIT-6 score, and MSQoL score (all p < 0.001).",
+    "source_doc_id": "e184899d4f54",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: Validation of GAD-7 and GAD-2 in patients with migraine"
+  },
+  {
+    "question": "What are the psychometric properties of the ADHD Rating Scale IV as a clinician-administered instrument?",
+    "answer": "The ADHD Rating Scale IV as a clinician-administered instrument demonstrated the following psychometric properties based on data from 604 children and adolescents across 14 countries:\n\n**Internal Consistency:** Cronbach's alpha for total score was 0.795 at Visit 1 and 0.838 at Visit 2; inattention subscale: 0.724 (Visit 1) and 0.770 (Visit 2); hyperactivity-impulsivity subscale: 0.825 (Visit 1) and 0.848 (Visit 2).\n\n**Test-retest reliability:** ICC = 0.84 for total score, 0.89 for hyperactive/impulsive subscale, 0.77 for inattentive subscale; Pearson correlations = 0.85, 0.89, and 0.78 respectively.\n\n**Inter-rater reliability:** Kappa statistics of 0.58 and 0.63 for two training tapes; average squared deviations of 0.38 and 0.30.",
+    "source_doc_id": "1f94412e1352",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: ADHD Rating Scale IV psychometric properties multinational study"
+  },
+  {
+    "question": "Are self-ratings and other-ratings of ADHD symptoms in adults reliable and valid?",
+    "answer": "Based on the text, self-ratings and other-ratings of ADHD symptoms in adults show mixed reliability and validity:\n\n**Reliability:** Item-level concordance between self- and observer-ratings ranged from slight to fair, with kappa values ranging from κ = .11 to κ = .37; correlations between self- and observer-ratings ranged from r = .24 to r = .46, with an overall average correlation of r = .36.\n\n**Validity:** The CAARS demonstrated poor discriminant validity - sensitivity and specificity were poorly balanced, with the DSM-IV Inattentive Symptoms Index showing high sensitivity (0.95) but very low specificity (0.13), while 94% of individuals with mood disorders and 87% of those with anxiety disorders produced false positives on this scale.",
+    "source_doc_id": "1615dc40f168",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: Reliability and Validity of Self- and Other-Ratings of ADHD in Adults"
+  },
+  {
+    "question": "What are the psychometric properties of the ADHD Rating Scale-5 for children in Sudan?",
+    "answer": "The sample consisted of 3,742 children aged 5-17 years. Reliability was very high with Cronbach's alpha values of αInatt. = 0.92, αHyp.-Imp. = 0.90 for symptom items, and αInatt. = 0.87, αHyp.-Imp. = 0.87 for impairment items. McDonald's omega values were ωInatt. = 0.93, ωHyp.-Imp = 0.91 for symptom items and ωInatt. = 0.91, ωHyp.-Imp = 0.92 for impairment items.",
+    "source_doc_id": "c3b720a16f0f",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: Psychometric Properties of ADHD Rating Scale-5 for Children Sudan School Version"
+  },
+  {
+    "question": "What is the reliability of the Chen ADHD Scale?",
+    "answer": "The Chen ADHD Scale demonstrated excellent internal consistency reliability with Cronbach's alpha of 0.966 to 0.978 (0.98 for whole symptoms items, 0.97 for inattention subscale, and 0.97 for hyperactive-impulsive subscale) and satisfactory test-retest reliability with intraclass correlation = 0.916 and Pearson's correlation of 0.85.",
+    "source_doc_id": "ac5e73b325c4",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: Reliability and Validity of Chen ADHD Scale"
+  },
+  {
+    "question": "What is the reliability of the WHO Adult ADHD Self-Report Scale Korean version?",
+    "answer": "The Korean version of the WHO Adult ADHD Self-Report Scale demonstrated internal consistency with Cronbach's α of 0.885 for the entire scale and test-retest reliability of 0.878 (p<0.001) over a two-week interval (n=41 participants for test-retest).",
+    "source_doc_id": "77e43935ce3d",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: WHO Adult ADHD Self-Report Scale Korean Version"
+  },
+  {
+    "question": "How is impairment in childhood ADHD measured by the ADHD-FX Rating Scale?",
+    "answer": "The ADHD-FX Rating Scale measures impairment in childhood ADHD through three domains of functional impairment: academic, social, and family problems (although teachers do not provide responses related to familial impairment). The measure consists of 32 items designed to assess these three domains, with items rated on a 0-3 scale, and frequency breakdown represents items endorsed >1 on the 3-point scale. Internal consistency reliability was demonstrated with Cronbach's alpha values >.70, ranging from .89 to .95 for all subscales and overall ADHD-FX on both parent and teacher rating forms.",
+    "source_doc_id": "b787bb8322b8",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Paper: Assessing Impairment in Childhood ADHD Validation ADHD-FX"
+  },
+  {
+    "question": "What is the internal consistency of the Hamilton Depression Rating Scale in a Brazilian sample?",
+    "answer": "The internal consistency of the Hamilton Depression Rating Scale in the Brazilian sample was α = 0.83 at V0 (baseline), α = 0.71 at V4 (four weeks), and α = 0.85 at V8 (eight weeks), as measured by Cronbach's alpha.",
+    "source_doc_id": "aca7bddedac8",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Paper: Hamilton depression rating scale Brazilian sample"
+  },
+  {
+    "question": "Which depression rating scales have been validated for use in Parkinson's disease?",
+    "answer": "For screening purposes, the HAM-D, BDI, HADS, MADRS, and GDS are valid in dPD. For measurement of severity of depressive symptoms, the Ham-D, MADRS, BDI, and SDS scales are recommended. The CES-D and CSDD are alternative instruments that need validation in dPD.",
+    "source_doc_id": "3a90e71f24bd",
+    "difficulty": "hard",
+    "category": "validity",
+    "notes": "Paper: Depression Rating Scales in Parkinson's Disease"
+  },
+  {
+    "question": "What is the optimal cutoff score for the WHO-5 Well-Being Index?",
+    "answer": "The WHO-5 showed a sensitivity of 0.8 and a specificity of 0.7 in the detection of depression with a cut-off point of 9.5. The validity of the WHO-5 as a screening tool for depression was supported by the excellent discrimination AUC value of 0.838.",
+    "source_doc_id": "3318a76e5f5c",
+    "difficulty": "medium",
+    "category": "scoring",
+    "notes": "Paper: Validation and optimal cut-off score of WHO-5"
+  },
+  {
+    "question": "What screening tools are available for common mental disorders?",
+    "answer": "The paper identifies several validated screening tools for common mental disorders:\n\n**For any CMD:** SRQ-20 (weighted DOR 28.36), GHQ-12 (weighted DOR 22.59), GHQ-5 (weighted DOR 59.82), K-6 (weighted DOR 15.61), K-10 (weighted DOR 15.55), GHQ-28 (weighted DOR 15.31), SSQ (weighted DOR 9.37), EPDS (weighted DOR 7.01).\n\n**For depressive disorders:** HADS-D (weighted DOR 33.07), PHQ-9 (weighted DOR 27.52), PHQ-2 (weighted DOR 22.18), BDI (weighted DOR 16.14), ZSDS (weighted DOR 36.47), GDS-15 (weighted DOR 31.97), CES-D (weighted DOR 18.79). **For postnatal depression:** EPDS (weighted DOR 148.68 for postnatal depression, 172.70 for postnatal major depressive disorder).\n\n**For anxiety disorders:** HADS-A (weighted DOR 60.09). The study identified validation studies for 25 different tools for any CMD, 63 different tools for depressive disorders, 11 tools for anxiety disorders, and 10 tools for PTSD across 153 studies corresponding to 273 separate validations.",
+    "source_doc_id": "2a8623149363",
+    "difficulty": "easy",
+    "category": "scoring",
+    "notes": "Paper: Validated Screening Tools for Common Mental Disorders"
+  },
+  {
+    "question": "What instruments are used to screen for emotional distress in cancer patients?",
+    "answer": "Based on the text, the instruments used to screen for emotional distress in cancer patients include:\n\n**Ultrashort measures (1-4 items):** Combined Depression Questions (performed best in palliative care), Distress Thermometer, anxiety question, interest question, one-question interview, Edmonton Symptom Assessment System, visual analog scales.\n\n**Short measures (5-20 items):** Center for Epidemiologic Studies-Depression Scale (CES-D), Hospital Anxiety and Depression Scale (HADS) - validated in 41 studies with 10,203 participants, Brief Symptom Inventory-18 (BSI-18), General Health Questionnaire-12 (GHQ-12), Edinburgh Postnatal Depression Scale, Patient Health Questionnaire-9 (PHQ-9), PTSD Checklist-Civilian Version, Psychological Distress Inventory, Zung Self-Rating Depression Scale.\n\n**Long measures (21-50 items):** Beck Depression Inventory (BDI), General Health Questionnaire-28 (GHQ-28), PsychoSocial Screen for Cancer, Questionnaire on Stress in Cancer Patients-Revised, Rotterdam Symptom Checklist. The literature search yielded 106 validation studies describing 33 screening measures total.",
+    "source_doc_id": "93dbd7e40e65",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: Screening for Emotional Distress in Cancer Patients"
+  },
+  {
+    "question": "How is the DSM-IV definition of severity applied to major depression diagnosis?",
+    "answer": "The DSM-IV definition of severity for major depression is \"judged to be mild, moderate or severe based on the number of criteria symptoms, the severity of the symptoms and the degree of functional disability and distress.\" The three severity measures showed correlations that were significant but moderate: criteria count and syndromal impairment +0.25 (n=1005, p<0.0001), criteria count and symptom severity +0.37 (n=1015, p<0.0001), and syndromal impairment and symptom severity +0.40 (n=1005, p<0.0001). Factor analysis produced a single 'severity' factor, with moderate loadings: symptom severity (+0.75), syndromal impairment (+0.52) and criteria count (+0.51).",
+    "source_doc_id": "f764067a6cf3",
+    "difficulty": "hard",
+    "category": "scoring",
+    "notes": "Paper: The DSM-IV definition of severity of major depression"
+  },
+  {
+    "question": "What methods are recommended for screening depression in adolescents?",
+    "answer": "The paper recommends the WHO-Five Well-being Index (WHO-5) and the six-item version of Beck's Depression Inventory (BDI-6) for screening depression in adolescents using a two-step procedure. For WHO-5, a score below 13 indicates poor well-being and need for depression testing, with sensitivity of 0.80 and specificity of 0.29 using cut-off <50. For BDI-6, conventional cut-off scores are <6 (no depression), 6-7 (mild depression), >7 (moderate depression), with sensitivity of 0.50 and specificity of 0.83 using cut-off <7.",
+    "source_doc_id": "a2efd5cde096",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: Screening for depressed mood in an adolescent"
+  },
+  {
+    "question": "What are the psychometric properties of the PHQ-4 for pregnant women?",
+    "answer": "The PHQ-4 demonstrated good psychometric properties for pregnant women in this Spanish sample (n=845): Cronbach's alpha = 0.77 for the total PHQ-4, α = 0.70 for the PHQ-2 depression subscale, and α = 0.75 for the GAD-2 anxiety subscale. Confirmatory factor analysis showed excellent fit indices for a two-factor structure (RMSEA = 0.069, CFI = 0.99, NFI = 0.90), and construct validity was supported by strong intercorrelations with the PHQ-9 (r = 0.76, p < 0.01).",
+    "source_doc_id": "e3d511588371",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Paper: Psychometric Properties of PHQ-4 for Pregnant Women"
+  }
+]
