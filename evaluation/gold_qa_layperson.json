@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Is that 9-question depression test any good?",
+    "answer": "The PHQ-9 had excellent internal consistency (Cronbach's alpha = 0.89) and at a cutoff of 10, sensitivity of 88% and specificity of 88%.",
+    "source_doc_id": "5a2f4699bf4b",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson phrasing for PHQ-9 validity"
+  },
+  {
+    "question": "How do doctors know if someone's depression questionnaire score means they're actually depressed?",
+    "answer": "A score of 10-14 on the PHQ-9 indicates moderate depression severity, with cutoff scores of 5, 10, 15, and 20 representing mild, moderate, moderately severe, and severe depression.",
+    "source_doc_id": "5a2f4699bf4b",
+    "difficulty": "medium",
+    "category": "scoring",
+    "notes": "Layperson asking about cutoff interpretation"
+  },
+  {
+    "question": "Can you use a depression screening tool over the phone instead of in person?",
+    "answer": "The MADRS demonstrated excellent interrater reliability when administered by telephone (ICC = 0.98) and ranged from good to excellent (ICC = 0.83-0.96) for individual items.",
+    "source_doc_id": "ca6eb41bc899",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about telephone administration"
+  },
+  {
+    "question": "Does that depression rating scale work the same way in different countries?",
+    "answer": "The ADHD Rating Scale IV was validated across 14 countries with 604 children, showing Cronbach's alpha of 0.795-0.838 and test-retest ICC of 0.84.",
+    "source_doc_id": "1f94412e1352",
+    "difficulty": "hard",
+    "category": "population",
+    "notes": "Vague cross-cultural question"
+  },
+  {
+    "question": "Is there a quick way to check if someone has anxiety without a long test?",
+    "answer": "The GAD-2 has sensitivity of 86% and specificity of 83% for GAD using a cut-off of 3 or more points, compared to the full GAD-7 with sensitivity of 89% and specificity of 82%.",
+    "source_doc_id": "c1f77224bcc9",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Layperson asking about brief screening"
+  },
+  {
+    "question": "My kid can't focus in school, how do they test for that?",
+    "answer": "The ADHD-FX Rating Scale measures impairment through academic, social, and family domains with 32 items, with internal consistency alpha values ranging from .89 to .95 for parent and teacher forms.",
+    "source_doc_id": "b787bb8322b8",
+    "difficulty": "medium",
+    "category": "scoring",
+    "notes": "Parent asking about ADHD assessment"
+  },
+  {
+    "question": "Do those mental health questionnaires actually work for teenagers?",
+    "answer": "The GAD-7 demonstrated validity for adolescents, with scores of 11 or higher showing 97% sensitivity and 100% specificity for detecting moderate anxiety in a sample of 40 adolescents with GAD.",
+    "source_doc_id": "9448206e4a07",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Parent/layperson asking about adolescent validity"
+  },
+  {
+    "question": "Can a pregnant woman take those depression tests or are they different?",
+    "answer": "The PHQ-4 demonstrated good psychometric properties for pregnant women with Cronbach's alpha = 0.77, and construct validity supported by strong correlation with the PHQ-9 (r = 0.76).",
+    "source_doc_id": "e3d511588371",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about pregnancy screening"
+  },
+  {
+    "question": "How do you know if a depression test gives consistent results?",
+    "answer": "Test-retest reliability is measured using intraclass correlation coefficients. For example, the PHQ-9 showed test-retest ICC of 0.92 and internal consistency Cronbach's alpha of 0.85.",
+    "source_doc_id": "4255421a55d6",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about reliability concept"
+  },
+  {
+    "question": "What's the best number to use as a passing or failing score on the depression test?",
+    "answer": "Meta-analytic evidence shows PHQ-9 cutoff scores between 8 and 11 have acceptable diagnostic properties, with a cutoff of 11 showing the best trade-off between sensitivity (0.89) and specificity (0.89).",
+    "source_doc_id": "a95b3b77954c",
+    "difficulty": "medium",
+    "category": "scoring",
+    "notes": "Layperson asking about optimal cutoff"
+  },
+  {
+    "question": "Are there good ways to screen cancer patients for feeling down or stressed?",
+    "answer": "Multiple instruments are used including the HADS (validated in 41 studies with 10,203 participants), Distress Thermometer, PHQ-9, BSI-18, and CES-D, with 33 screening measures identified across 106 validation studies.",
+    "source_doc_id": "93dbd7e40e65",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about cancer distress screening"
+  },
+  {
+    "question": "Does the anxiety questionnaire work for people with migraines?",
+    "answer": "The GAD-7 is valid for migraine patients with Cronbach's alpha of 0.915. At cutoff of 5, sensitivity was 78.1% and specificity 74.6%, with negative predictive value of 92.4%.",
+    "source_doc_id": "e184899d4f54",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about GAD-7 in migraines"
+  },
+  {
+    "question": "Is there a version of that depression scale people can fill out themselves instead of needing a doctor?",
+    "answer": "Yes, the MADRS-S is a 9-item self-report version with scores 0-27, showing correlation with clinician MADRS of r=0.54, Cronbach's alpha of 0.84, and ICC of 0.78.",
+    "source_doc_id": "19f1ee7a4c78",
+    "difficulty": "easy",
+    "category": "scoring",
+    "notes": "Layperson asking about self-report MADRS"
+  },
+  {
+    "question": "How do they measure if someone with Parkinson's is also depressed?",
+    "answer": "For screening depression in Parkinson's disease, the HAM-D, BDI, HADS, MADRS, and GDS are validated. For measuring severity, the HAM-D, MADRS, BDI, and SDS are recommended.",
+    "source_doc_id": "3a90e71f24bd",
+    "difficulty": "hard",
+    "category": "validity",
+    "notes": "Layperson asking about depression in PD"
+  },
+  {
+    "question": "Can adults tell if they have attention problems themselves or does someone else need to rate them?",
+    "answer": "Self-ratings and other-ratings showed limited agreement, with kappa values ranging from 0.11 to 0.37 and correlations from r=0.24 to r=0.46, with an average correlation of r=0.36.",
+    "source_doc_id": "1615dc40f168",
+    "difficulty": "hard",
+    "category": "reliability",
+    "notes": "Layperson asking about self vs other ADHD ratings"
+  },
+  {
+    "question": "Does that wellbeing quiz actually catch depression?",
+    "answer": "The WHO-5 showed sensitivity of 0.8 and specificity of 0.7 for detecting depression at a cutoff of 9.5, with AUC of 0.838.",
+    "source_doc_id": "3318a76e5f5c",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Layperson asking about WHO-5 screening ability"
+  },
+  {
+    "question": "How well does the Korean version of the ADHD checklist work?",
+    "answer": "The Korean ASRS demonstrated internal consistency with Cronbach's alpha of 0.885 and test-retest reliability of 0.878 over a two-week interval.",
+    "source_doc_id": "77e43935ce3d",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Slightly more specific but still informal"
+  },
+  {
+    "question": "Is the Chinese translation of the depression questionnaire as reliable as the English one?",
+    "answer": "The Chinese version of the PHQ-9 (C-PHQ-9) showed Cronbach's alpha of 0.938 and test-retest coefficient of 0.955 in psoriasis patients.",
+    "source_doc_id": "2abad0e27c1e",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about translated instrument"
+  },
+  {
+    "question": "Which depression scale is better, the one with 10 items or the one with 17 items?",
+    "answer": "The MADRS (10 items) showed about twice the precision of the HRSD17 (17 items), with Cronbach's alpha of 0.90-0.92 for MADRS versus 0.81-0.88 for HRSD17, and higher median item-total correlations (0.75-0.78 vs 0.50-0.56).",
+    "source_doc_id": "bf67caefd469",
+    "difficulty": "hard",
+    "category": "validity",
+    "notes": "Layperson comparing MADRS vs Hamilton without knowing names"
+  },
+  {
+    "question": "Do they screen for mental health problems in people getting weight loss surgery?",
+    "answer": "Yes, the MADRS is valid for detecting depression among bariatric surgery candidates with Cronbach's alpha of 0.93, and best cutoff of 13/14 yielding sensitivity of 0.81 and specificity 0.85.",
+    "source_doc_id": "0f151acddf82",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about bariatric screening"
+  }
+]
