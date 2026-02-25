@@ -1,0 +1,12 @@
+{
+  "experiment": "semantic_hyde",
+  "chunking": "semantic",
+  "retrieval": "hyde",
+  "num_chunks": 1908,
+  "hit_rate_3": 0.775,
+  "hit_rate_5": 0.8,
+  "hit_rate_10": 0.85,
+  "mrr": 0.6635416666666667,
+  "eval_time_s": 204.42198063599972,
+  "num_queries": 40
+}

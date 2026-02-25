@@ -1,0 +1,12 @@
+{
+  "experiment": "fixed_512_naive",
+  "chunking": "fixed_512",
+  "retrieval": "naive",
+  "num_chunks": 6156,
+  "hit_rate_3": 0.3,
+  "hit_rate_5": 0.425,
+  "hit_rate_10": 0.55,
+  "mrr": 0.3146130952380952,
+  "eval_time_s": 0.8877910500013968,
+  "num_queries": 40
+}

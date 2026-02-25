@@ -158,5 +158,165 @@
     "difficulty": "medium",
     "category": "population",
     "notes": "Layperson asking about bariatric screening"
+  },
+  {
+    "question": "Does that short depression checklist actually work for people who are already diagnosed?",
+    "answer": "The PHQ-9 showed good reliability in patients with major depressive disorder, with internal consistency and validity supported across clinical samples.",
+    "source_doc_id": "2202b318485c",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about PHQ-9 in diagnosed patients"
+  },
+  {
+    "question": "Can that 9-question depression quiz replace a doctor's actual diagnosis?",
+    "answer": "The PHQ-9 is a valid screener but not a diagnostic replacement. Validity studies show it performs well as a screening tool, though clinical diagnosis requires broader assessment.",
+    "source_doc_id": "6bc9f70c0d91",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Layperson asking about PHQ-9 as diagnostic tool"
+  },
+  {
+    "question": "Do men and women score differently on those depression tests?",
+    "answer": "Factor structure analysis of the PHQ-9 shows the scale measures depression consistently across gender and racial groups, supporting its use across diverse populations.",
+    "source_doc_id": "87358abbdd83",
+    "difficulty": "medium",
+    "category": "structure",
+    "notes": "Layperson asking about gender differences on PHQ-9"
+  },
+  {
+    "question": "Does the depression questionnaire work for older people in nursing homes?",
+    "answer": "The PHQ-9 has demonstrated reliability and validity for depression screening in older adult populations including nursing home and community settings.",
+    "source_doc_id": "69d566f69cf5",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about PHQ-9 in elderly"
+  },
+  {
+    "question": "Can these mental health tests be used in poor countries where there aren't many doctors?",
+    "answer": "Establishing PHQ-9 validity in resource-limited settings presents challenges including translation issues, cultural adaptation, and lack of trained administrators for gold-standard comparison.",
+    "source_doc_id": "a7da73e9645e",
+    "difficulty": "hard",
+    "category": "validity",
+    "notes": "Layperson asking about low-resource settings"
+  },
+  {
+    "question": "Can that depression test be used for people who have other health problems too?",
+    "answer": "The PHQ-9 has demonstrated reliability in patients with various comorbid medical conditions, though somatic items may need interpretation adjustment in medically ill patients.",
+    "source_doc_id": "b4a5480d5e66",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about PHQ-9 with medical comorbidities"
+  },
+  {
+    "question": "Does that depression rating scale measure one thing or a bunch of different things?",
+    "answer": "Factor analysis of the MADRS supports a structure with core depressive symptoms including mood, cognitive, and vegetative components, though the exact factor solution varies across studies.",
+    "source_doc_id": "39e0542961f4",
+    "difficulty": "hard",
+    "category": "structure",
+    "notes": "Layperson asking about MADRS factor structure"
+  },
+  {
+    "question": "Does alcohol affect how accurate those depression tests are?",
+    "answer": "The MADRS showed good validity for detecting depression in inpatients with alcohol use disorder, with the scale maintaining its psychometric properties in this comorbid population.",
+    "source_doc_id": "d39061500028",
+    "difficulty": "medium",
+    "category": "validity",
+    "notes": "Layperson asking about MADRS in alcohol use disorder"
+  },
+  {
+    "question": "Is there an Arabic version of those mental health tests?",
+    "answer": "An Arabic version of the MADRS has been developed and validated, showing acceptable psychometric properties for use in Arabic-speaking populations.",
+    "source_doc_id": "00ca8b1fd790",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about Arabic MADRS"
+  },
+  {
+    "question": "How many questions are on that anxiety test and what does it actually measure?",
+    "answer": "The GAD-7 is a 7-item scale measuring generalized anxiety disorder symptoms over the past two weeks, with each item scored 0-3 for a total range of 0-21.",
+    "source_doc_id": "63b81fd81684",
+    "difficulty": "easy",
+    "category": "scoring",
+    "notes": "Layperson asking about GAD-7 basics"
+  },
+  {
+    "question": "Does the anxiety questionnaire work for people from different backgrounds?",
+    "answer": "The GAD-7 demonstrated good psychometric properties across heterogeneous populations including primary care patients from diverse ethnic and demographic groups.",
+    "source_doc_id": "712e48465b69",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about GAD-7 across diverse groups"
+  },
+  {
+    "question": "How do they check if a child's ADHD rating scale actually works properly?",
+    "answer": "The ADHD Rating Scale psychometric properties are evaluated through measures of internal consistency, test-retest reliability, and validity against clinical diagnoses across normative samples.",
+    "source_doc_id": "c3b720a16f0f",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about ADHD scale validation"
+  },
+  {
+    "question": "Is there a specific ADHD test made for Chinese kids?",
+    "answer": "The Chen ADHD Scale demonstrated good reliability with Cronbach's alpha and test-retest coefficients supporting its use as a validated measure for ADHD in Chinese populations.",
+    "source_doc_id": "ac5e73b325c4",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about Chinese-specific ADHD scale"
+  },
+  {
+    "question": "Is that older Hamilton depression scale still considered accurate?",
+    "answer": "The Hamilton Depression Rating Scale (HAM-D) shows internal consistency with Cronbach's alpha values, though its heterogeneous item content means reliability can vary depending on the patient sample.",
+    "source_doc_id": "aca7bddedac8",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about Hamilton scale accuracy"
+  },
+  {
+    "question": "What's a quick way for a regular doctor to check on someone's mental health?",
+    "answer": "Brief screening tools for common mental disorders in primary care include the PHQ-9 for depression, GAD-7 for anxiety, and combined instruments like the PHQ-4 that cover multiple conditions efficiently.",
+    "source_doc_id": "2a8623149363",
+    "difficulty": "easy",
+    "category": "scoring",
+    "notes": "Layperson asking about primary care mental health screening"
+  },
+  {
+    "question": "How do you tell the difference between mild and severe depression?",
+    "answer": "The DSM-IV definition applies severity specifiers based on symptom count and functional impairment, with rating scales like the PHQ-9 mapping onto these levels through validated cutoff scores.",
+    "source_doc_id": "f764067a6cf3",
+    "difficulty": "medium",
+    "category": "scoring",
+    "notes": "Layperson asking about depression severity classification"
+  },
+  {
+    "question": "How do you check if a teenager is depressed without making it a big deal?",
+    "answer": "Brief self-report screening tools are recommended for adolescent depression, with instruments like the PHQ-A adapted for younger populations showing acceptable sensitivity and specificity.",
+    "source_doc_id": "a2efd5cde096",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about adolescent depression screening methods"
+  },
+  {
+    "question": "If someone scores high on the anxiety test once, will they score high again next week?",
+    "answer": "The GAD-7 showed good test-retest reliability with ICC values supporting stability of scores over short intervals in primary care populations.",
+    "source_doc_id": "712e48465b69",
+    "difficulty": "medium",
+    "category": "reliability",
+    "notes": "Layperson asking about GAD-7 test-retest stability"
+  },
+  {
+    "question": "Can a normal family doctor use these mental health scales or do you need a specialist?",
+    "answer": "The PHQ-9 and GAD-7 were specifically designed for primary care settings and have been validated for use by non-specialist clinicians, with brief administration times of under 3 minutes.",
+    "source_doc_id": "2a8623149363",
+    "difficulty": "easy",
+    "category": "validity",
+    "notes": "Layperson asking about who can administer scales"
+  },
+  {
+    "question": "Does the ADHD test work the same for kids of different ages?",
+    "answer": "The ADHD Rating Scale IV was validated across age groups with normative data stratified by age and gender, showing consistent psychometric properties from school-age through adolescence.",
+    "source_doc_id": "c3b720a16f0f",
+    "difficulty": "medium",
+    "category": "population",
+    "notes": "Layperson asking about age range for ADHD scale"
   }
 ]
