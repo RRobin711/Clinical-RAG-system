@@ -2,7 +2,7 @@
 
 A domain-specific Retrieval-Augmented Generation system for querying clinical psychology research literature. Built with FAISS, BGE embeddings, and Claude — evaluated with a custom 40-question gold dataset across 59 open-access papers covering MADRS, PHQ-9, GAD-7, and ADHD rating scales.
 
-**[Live Demo](#)** · **[Blog Post](#)** · **[GitHub](https://github.com/RRobin711/Clinical-RAG-system)**
+**[Live Demo](https://huggingface.co/spaces/RRobin711/clinical-rag)** · **[Blog Post](https://medium.com/@rryanb711/what-broke-when-i-built-a-clinical-rag-system-and-how-i-fixed-it-5bbbbecb070f?postPublishedType=repub)** · **[GitHub](https://github.com/RRobin711/Clinical-RAG-system)**
 
 ---
 
